@@ -117,8 +117,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.54979092"
-     inkscape:cx="670.00445"
-     inkscape:cy="55.559191"
+     inkscape:cx="615.78011"
+     inkscape:cy="101.63298"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -185,7 +185,7 @@
      transform="translate(59.071426,-24.719349)">
     <path
        style="opacity:1;fill:#dde9af;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 166.62327,79.833149 901.87143,1.07478 79.5118,59.632731 0.6507,194.35736 -982.03393,0 z"
+       d="m 166.62327,79.833146 901.87143,1.134394 79.5118,62.94034 0.6507,205.13764 -982.03393,0 z"
        id="rect3538"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
@@ -205,13 +205,13 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="35.718872"
-       y="364.68353"
+       y="383.97559"
        id="text4343-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4345-1"
          x="35.718872"
-         y="364.68353"
+         y="383.97559"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Body</tspan></text>
     <text
        xml:space="preserve"
@@ -261,13 +261,13 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="333.0278"
-       y="410.14539"
+       y="429.43744"
        id="text5553"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5555"
          x="333.0278"
-         y="410.14539"
+         y="429.43744"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Example HTTP Request message</tspan></text>
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-36)"
@@ -276,7 +276,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-36-5)"
-       d="m 161.57759,359.75056 -35.35534,0"
+       d="m 161.57759,379.04262 -35.35534,0"
        id="path4404-53-2"
        inkscape:connector-curvature="0" />
   </g>
@@ -286,71 +286,135 @@
      id="layer1"
      transform="translate(59.071426,-24.719349)"
      style="display:inline">
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4245"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-64.804945,237.15653)"><flowRegion
-         id="flowRegion4247"><rect
-           id="rect4249"
-           width="941.45288"
-           height="228.9325"
-           x="253.36911"
-           y="-137.4855" /></flowRegion><flowPara
-         id="flowPara4251"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-   id="flowSpan4271">GET /</flowSpan> HTTP/1.1<flowSpan
-   style="fill:#ff0000"
-   id="flowSpan4275">\r\n</flowSpan></flowPara><flowPara
-         id="flowPara4253">Host: 127.0.0.1:9007<flowSpan
-   style="fill:#ff0000"
-   id="flowSpan4277">\r\n</flowSpan></flowPara><flowPara
-         id="flowPara4255">User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Geck/20100101 Firefox/58.0<flowSpan
-   style="fill:#ff0000"
-   id="flowSpan4279">\r\n</flowSpan></flowPara><flowPara
-         id="flowPara4257">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8<flowSpan
-   style="fill:#ff0000"
-   id="flowSpan4281">\r\n</flowSpan></flowPara><flowPara
-         id="flowPara4259">Accept-Language: en-US,en;q=0.5<flowSpan
-   style="fill:#ff0000"
-   id="flowSpan4283">\r\n</flowSpan></flowPara><flowPara
-         id="flowPara4261">Accept-Encoding: gzip, deflater<flowSpan
-   style="fill:#ff0000"
-   id="flowSpan4285">\r\n</flowSpan></flowPara><flowPara
-         id="flowPara4263">Connection: keep-alive<flowSpan
-   style="fill:#ff0000"
-   id="flowSpan4287">\r\n</flowSpan></flowPara><flowPara
-         id="flowPara4267">Upgrade-Insecure-Requests: 1<flowSpan
-   style="fill:#ff0000"
-   id="flowSpan4289">\r\n</flowSpan></flowPara><flowPara
-         id="flowPara4269"
-         style="fill:#ff0000">\r\n</flowPara><flowPara
-         id="flowPara4265" /></flowRoot>    <text
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:23.86820221px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="180.69363"
-       y="364.9624"
+       y="384.25281"
        id="text3336-9"
        sodipodi:linespacing="125%"
        transform="scale(0.99991461,1.0000854)"><tspan
          sodipodi:role="line"
          id="tspan3338-1"
          x="180.69363"
-         y="364.9624">(empty)</tspan></text>
+         y="384.25281">(empty)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="179.20099"
-       y="63.21788"
+       x="191.93311"
+       y="112.32746"
        id="text5951"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5953"
-         x="179.20099"
-         y="63.21788"><tspan
+         x="191.93311"
+         y="112.32746"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan5955">GET / </tspan>HTTP/1.1<tspan
    style="fill:#ff0000"
    id="tspan5957">\r\n</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="190.11424"
+       y="139.61057"
+       id="text5961"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5963"
+         x="190.11424"
+         y="139.61057">Host: 127.0.0.1:9007<tspan
+   style="fill:#ff0000"
+   id="tspan5965">\r\n</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="191.93309"
+       y="168.71255"
+       id="text5967"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5969"
+         x="191.93309"
+         y="168.71255">User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Geck/20100101 Firefox/58.0<tspan
+   style="fill:#ff0000"
+   id="tspan5971">\r\n</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="193.75198"
+       y="197.8145"
+       id="text5973"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5975"
+         x="193.75198"
+         y="197.8145">Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8<tspan
+   style="fill:#ff0000"
+   id="tspan5977">\r\n</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="191.93311"
+       y="226.91647"
+       id="text5979"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5981"
+         x="191.93311"
+         y="226.91647">Accept-Language: en-US,en;q=0.5<tspan
+   style="fill:#ff0000"
+   id="tspan5983">\r\n</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="191.93311"
+       y="256.0184"
+       id="text5985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5987"
+         x="191.93311"
+         y="256.0184">Accept-Encoding: gzip, deflater<tspan
+   style="fill:#ff0000"
+   id="tspan5989">\r\n</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="190.11421"
+       y="283.30151"
+       id="text5991"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5993"
+         x="190.11421"
+         y="283.30151">Connection: keep-alive<tspan
+   style="fill:#ff0000"
+   id="tspan5995">\r\n</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="188.29533"
+       y="308.76575"
+       id="text5997"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5999"
+         x="188.29533"
+         y="308.76575">Upgrade-Insecure-Requests: 1<tspan
+   style="fill:#ff0000"
+   id="tspan6001">\r\n</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="193.75197"
+       y="333.38516"
+       id="text6003"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6005"
+         x="193.75197"
+         y="333.38516"
+         style="fill:#ff0000">\r\n</tspan></text>
   </g>
 </svg>
