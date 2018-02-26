@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="352.80774mm"
+   width="381.84583mm"
    height="122.25697mm"
-   viewBox="0 0 1250.1062 433.194"
+   viewBox="0 0 1352.9971 433.19397"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -116,11 +116,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54979092"
-     inkscape:cx="615.78011"
-     inkscape:cy="101.63298"
+     inkscape:zoom="0.38876089"
+     inkscape:cx="769.98282"
+     inkscape:cy="100.9069"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
@@ -147,11 +147,11 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="back"
-     transform="translate(59.071426,-24.719349)">
+     transform="translate(59.071426,-24.719364)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5558"
-       width="1249.1062"
+       width="1351.9972"
        height="432.194"
        x="-58.571426"
        y="25.219349" />
@@ -182,10 +182,10 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="message_back"
-     transform="translate(59.071426,-24.719349)">
+     transform="translate(59.071426,-24.719364)">
     <path
        style="opacity:1;fill:#dde9af;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 166.62327,79.833146 901.87143,1.134394 79.5118,62.94034 0.6507,205.13764 -982.03393,0 z"
+       d="m 166.62327,79.833146 998.72583,1.134394 88.0508,62.94034 0.7206,205.13764 -1087.49723,0 z"
        id="rect3538"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
@@ -284,7 +284,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(59.071426,-24.719349)"
+     transform="translate(59.071426,-24.719364)"
      style="display:inline">
     <text
        xml:space="preserve"
