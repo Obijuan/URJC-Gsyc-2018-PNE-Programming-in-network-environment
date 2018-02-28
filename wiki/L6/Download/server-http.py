@@ -30,6 +30,14 @@ Handler = testHTTPRequestHandler
 
 httpd = socketserver.TCPServer((IP, PORT), Handler)
 print("serving at port", PORT)
-httpd.serve_forever()
+try:
+    httpd.serve_forever()
+except KeyboardInterrupt:
+        pass
+
+httpd.server_close()
+print("")
+print("Server stopped!")
+
 
 # https://github.com/joshmaker/simple-python-webserver/blob/master/server.py
